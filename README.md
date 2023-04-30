@@ -1,4 +1,4 @@
-# Snake-Public
+# Snake - C++
 The code uses the ncurses library to develop a terminal based snake game  
 Initial code was provided, and through two milestones multiple functionalities needed to be completed or created  
   
